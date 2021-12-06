@@ -1,0 +1,14 @@
+C:\Users\joao.souza\source\repos\Exercicio_Execoes\Exercicio_Execoes\bin\Debug\netcoreapp3.1\Exercicio_Execoes.exe
+C:\Users\joao.souza\source\repos\Exercicio_Execoes\Exercicio_Execoes\bin\Debug\netcoreapp3.1\Exercicio_Execoes.deps.json
+C:\Users\joao.souza\source\repos\Exercicio_Execoes\Exercicio_Execoes\bin\Debug\netcoreapp3.1\Exercicio_Execoes.runtimeconfig.json
+C:\Users\joao.souza\source\repos\Exercicio_Execoes\Exercicio_Execoes\bin\Debug\netcoreapp3.1\Exercicio_Execoes.runtimeconfig.dev.json
+C:\Users\joao.souza\source\repos\Exercicio_Execoes\Exercicio_Execoes\bin\Debug\netcoreapp3.1\Exercicio_Execoes.dll
+C:\Users\joao.souza\source\repos\Exercicio_Execoes\Exercicio_Execoes\bin\Debug\netcoreapp3.1\Exercicio_Execoes.pdb
+C:\Users\joao.souza\source\repos\Exercicio_Execoes\Exercicio_Execoes\obj\Debug\netcoreapp3.1\Exercicio_Execoes.csproj.AssemblyReference.cache
+C:\Users\joao.souza\source\repos\Exercicio_Execoes\Exercicio_Execoes\obj\Debug\netcoreapp3.1\Exercicio_Execoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.souza\source\repos\Exercicio_Execoes\Exercicio_Execoes\obj\Debug\netcoreapp3.1\Exercicio_Execoes.AssemblyInfoInputs.cache
+C:\Users\joao.souza\source\repos\Exercicio_Execoes\Exercicio_Execoes\obj\Debug\netcoreapp3.1\Exercicio_Execoes.AssemblyInfo.cs
+C:\Users\joao.souza\source\repos\Exercicio_Execoes\Exercicio_Execoes\obj\Debug\netcoreapp3.1\Exercicio_Execoes.csproj.CoreCompileInputs.cache
+C:\Users\joao.souza\source\repos\Exercicio_Execoes\Exercicio_Execoes\obj\Debug\netcoreapp3.1\Exercicio_Execoes.dll
+C:\Users\joao.souza\source\repos\Exercicio_Execoes\Exercicio_Execoes\obj\Debug\netcoreapp3.1\Exercicio_Execoes.pdb
+C:\Users\joao.souza\source\repos\Exercicio_Execoes\Exercicio_Execoes\obj\Debug\netcoreapp3.1\Exercicio_Execoes.genruntimeconfig.cache
